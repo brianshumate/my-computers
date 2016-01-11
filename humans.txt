@@ -26,7 +26,7 @@ Location: On a boat
 - Evan-Amos for: https://en.wikipedia.org/wiki/Commodore_64#/media/File:Commodore-64-Computer.png
 
 /* SITE */
-Last update: 2016-01-11T13:18:17
+Last update: 2016-01-11T17:52:03
 Standards: HTML5, CSS3, JS
 Components: jQuery, Zurb Foundation
 Software: Metalsmith, ImageMagick, Pixelmator, Sublime Text 3
