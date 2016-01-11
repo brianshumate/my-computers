@@ -1,0 +1,32 @@
+/* TEAM */
+Guilty Party: Brian Shumate
+Site: http://brianshumate.com/
+Twitter: @brianshumate
+Location: On a boat
+
+/* THANKS */
+- Lamune for: https://commons.wikimedia.org/wiki/File:TRS-80_Color_Computer_3.jpg
+- www.cuk.ch for: http://redac.cuk.ch/archives_v3/4521/nextstation_vign.jpg
+- sunstuff.org for: http://sunstuff.org/hardware/systems/sun4/sun4m/SPARCstation5/sun.sparcstation5.11.jpg
+- oldcomputers.net for: http://www.oldcomputers.net/pics/appleii-system.jpg
+- Bilby for https://en.wikipedia.org/wiki/Apple_IIc#/media/File:Apple_IIc_with_monitor.jpg
+- oldcomputers.net for: http://www.oldcomputers.net/pics/Hhc.jpg
+- compidiaries.wordpress.com for: https://compidiaries.files.wordpress.com/2011/03/sparcstation-ipx.jpg
+- compudesigns.ca for: http://www.compudesigns.ca/wp-content/uploads/2014/06/timex-sinclair-1000-hbd-800.jpg
+- iamarenaissancegeek for: https://iamarenaissancegeek.files.wordpress.com/2012/08/img_0844.jpg
+- Plasticboob for: https://en.wikipedia.org/wiki/Tandy_1000#/media/File:Tandy_1000_rl_1.jpg
+- appstate.edu for http://www1.appstate.edu/~jmm/operations/o_vx8650_2.gif
+- geos-infobase.de for http://www.geos-infobase.de/zoomer/ZOOMER01.JPG
+- www.sgistuff.net for: http://www.sgistuff.net/collection/other/images/sun012-front.jpg
+- Carl Berkeley for https://www.flickr.com/photos/mac_users_guide/4074644348/in/photostream/
+- Rob DiCaterino for: https://c1.staticflickr.com/5/4084/4842712750_f60cb549eb_b.jpg
+- Jonathanzeller for: https://upload.wikimedia.org/wikipedia/commons/c/c1/PowerBook_G4_12.jpeg
+- imgur.com for: https://i.imgur.com/X4axj6Ym.png
+- techradar.com for: http://cdn.mos.techradar.com/images/Apple-iMac-CRT-blueberry-1200-80.jpg
+- Evan-Amos for: https://en.wikipedia.org/wiki/Commodore_64#/media/File:Commodore-64-Computer.png
+
+/* SITE */
+Last update: 2016-01-11T12:58:32
+Standards: HTML5, CSS3, JS
+Components: jQuery, Zurb Foundation
+Software: Metalsmith, ImageMagick, Pixelmator, Sublime Text 3

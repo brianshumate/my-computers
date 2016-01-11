@@ -1,0 +1,549 @@
+{
+  "title": {
+    "media": {
+      "caption": "Cray X-MP supercomputer",
+      "credit": "",
+      "url": "/img/Cray-X-MP.jpg",
+      "thumbnail": "/img/Cray-X-MP.jpg"
+    },
+    "text": {
+      "headline": "MY LIFE IN COMPUTERS",
+      "text": "A timeline of all the computers I have owned or used throughout my lifetime"
+    },
+    "background": {
+    "color": "#000000",
+    "opacity": 100,
+    "url": null
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "1982",
+        "month": "02"
+      },
+      "end_date": {
+        "year": "1982",
+        "month": "05"
+      },
+      "media": {
+        "caption": "Apple II",
+        "url": "/img/Apple-II.jpg",
+        "thumbnail": "/img/Apple-II.jpg"
+      },
+      "text": {
+        "headline": "Apple II",
+        "text": "The venerable Apple II was the first computer I ever set hands on; introduced to me in elementary school if only for a brief time, this is the machine which set me on the path of sheer nerdery that has defined my entire lifetime."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1985",
+        "month": "07"
+      },
+      "end_date": {
+        "year": "1986",
+        "month": "05"
+      },
+      "media": {
+        "caption": "Timex Sinclair 1000",
+        "url": "/img/Timex-Sinclair-1000.jpg",
+        "thumbnail": "/img/Timex-Sinclair-1000.jpg"
+      },
+      "text": {
+        "headline": "Timex Sinclair 1000",
+        "text": "I got early exposure to computer programming and especially graphics oriented programming by occasionally using a relative's TS 1000. It was a good time and I always wanted one for myself."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1986",
+        "month": "08"
+      },
+      "end_date": {
+        "year": "1986",
+        "month": "06"
+      },
+      "media": {
+        "caption": "Apple IIc",
+        "url": "/img/Apple-IIc.jpg",
+        "thumbnail": "/img/Apple-IIc.jpg"
+      },
+      "text": {
+        "headline": "Apple IIc",
+        "text": "This was one of my favorite Apple computers; used in school, its intended purpose was for the teacher's needs, but I was often fortunately allowed to play hits like Oregon Trail and Below the Root on it"
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1987",
+        "month": "04"
+      },
+      "end_date": {
+        "year": "1987",
+        "month": "07"
+      },
+      "media": {
+        "caption": "Panasonic HHC RL-H1400",
+        "url": "/img/Panasonic.HHC.jpg",
+        "thumbnail": "/img/Panasonic.HHC.jpg"
+      },
+      "text": {
+        "headline": "Panasonic HHC",
+        "text": "I owned this cute little thing with a whopping 4KB of RAM and 1Mhz CPU for a brief time and did MS BASIC programming on its 26X1 LCD."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1989",
+        "month": "09"
+      },
+      "end_date": {
+        "year": "1990",
+        "month": "07"
+      },
+      "media": {
+        "caption": "TRS 80 Color Computer III",
+        "url": "/img/TRS-80_Color_Computer_3.jpg",
+        "thumbnail": "/img/TRS-80_Color_Computer_3.jpg"
+      },
+      "text": {
+        "headline": "TRS 80 Color Computer III",
+        "text": "The first computer that I ever bought for myself; as a teenager, I entered thousands and thousands of lines of BASIC code from early computer magazines into one of these machines to teach myself programming. It used cassette tape storage and a television for a monitor."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1990",
+        "month": "08"
+      },
+      "end_date": {
+        "year": "1991",
+        "month": "02"
+      },
+      "media": {
+        "caption": "Commodore 64",
+        "url": "/img/Commodore-64.png",
+        "thumbnail": "/img/Commodore-64.png"
+      },
+      "text": {
+        "headline": "Commodore 64",
+        "text": "I swapped my Color Computer III for a Commodore 64 with an actual disk drive and much more available software. Played a lot of fun games and did even more BASIC programming on this classic machine."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1993",
+        "month": "07"
+      },
+      "end_date": {
+        "year": "1994",
+        "month": "05"
+      },
+      "media": {
+        "caption": "Tandy 1000 HX",
+        "url": "/img/1000-HX.jpg",
+        "thumbnail": "/img/1000-HX.jpg"
+      },
+      "text": {
+        "headline": "Tandy 1000HX",
+        "text": "One of my first MS-DOS based PCs, I actually had a couple different units in use between myself and my family members."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1993",
+        "month": "07"
+      },
+      "end_date": {
+        "year": "1996",
+        "month": "05"
+      },
+      "media": {
+        "caption": "Tandy 1000 RL",
+        "url": "/img/Tandy-1000RL.jpg",
+        "thumbnail": "/img/Tandy-1000RL.jpg"
+      },
+      "text": {
+        "headline": "Tandy 1000 RL",
+        "text": "I used a 1000RL to really learn MS-DOS well, with custom shells, a packet driver, other TCP/IP stack bits, all manner of terminal programs, SLIP dialup software for internet access via a terminal, lots of games, text files, and more. I used this machine to surf the early internet."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1994",
+        "month": "02"
+      },
+      "end_date": {
+        "year": "1995",
+        "month": "01"
+      },
+      "media": {
+        "caption": "Tandy 1000 TL/2",
+        "url": "/img/1000-TL2.jpg",
+        "thumbnail": "/img/1000-TL2.jpg"
+      },
+      "text": {
+        "headline": "Tandy 1000 TL/2",
+        "text": "I used a 1000 TL/2 to alongside a 1000RL, mostly for game playing and application software like Wordstar and Print Shop. I also did plenty of BBSing on it."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1994",
+        "month": "05"
+      },
+      "end_date": {
+        "year": "1994",
+        "month": "11"
+      },
+      "media": {
+        "caption": "VAX 8650",
+        "url": "/img/VAX-8650.jpg",
+        "thumbnail": "/img/VAX-8650.jpg"
+      },
+      "text": {
+        "headline": "VAX 8650",
+        "text": "I used the machine pictured for almost a year, where I was able to discover not only the VMS operating system, but other VAX/VMS users in other universities, and the greater internet itself. The 8650 was codenamed <em>Morningstar</em> and was the last VAX to have PDP-11 compatibility mode."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1994",
+        "month": "07"
+      },
+      "end_date": {
+        "year": "1994",
+        "month": "09"
+      },
+      "media": {
+        "caption": "Cray Y-MP",
+        "url": "/img/Cray-Y-MP.jpg",
+        "thumbnail": "/img/Cray-Y-MP.jpg"
+      },
+      "text": {
+        "headline": "Cray Y-MP",
+        "text": "As part of an educational access program, I had the fortune to participate in a project that provided a job scheduled parallel ray-tracing program — login to a UNICOS shell account and submit a job to the scheduler — time passes, and an amazing (sometimes) image results."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1994",
+        "month": "10"
+      },
+      "end_date": {
+        "year": "1995",
+        "month": "02"
+      },
+      "media": {
+        "caption": "Zoomer",
+        "url": "/img/Zoomer.jpg",
+        "thumbnail": "/img/Zoomer.jpg"
+      },
+      "text": {
+        "headline": "Zoomer",
+        "text": "An early Personal Digital Assistant (PDA) and my very first of such devices, the Zoomer was licensed by Casio and originally engineered in part by Jeff Hawkins, who founded Palm. The Zoomer ran a variant of the GEOS operating system."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1998",
+        "month": "10"
+      },
+      "end_date": {
+        "year": "2001",
+        "month": "12"
+      },
+      "media": {
+        "caption": "Packard Bell Legend",
+        "url": "/img/Packard-Bell-Legend.jpg",
+        "thumbnail": "/img/Packard-Bell-Legend.jpg"
+      },
+      "text": {
+        "headline": "Packard Bell Legend",
+        "text": "This was my girlfriend's Pentium that I also used a lot for games, learning more about FreeBSD, Linux, and Windows... plus an enormous amount of early (<em>thnk Dancing Baby</em> era) internet usage."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1999",
+        "month": "07"
+      },
+      "end_date": {
+        "year": "1999",
+        "month": "09"
+      },
+      "media": {
+        "caption": "NeXTStation Turbo Color",
+        "url": "/img/NeXTStation-Turbo-color.jpg",
+        "thumbnail": "/img/NeXTStation-Turbo-color.jpg"
+      },
+      "text": {
+        "headline": "NeXTStation Turbo Color",
+        "text": "One of my favorite computers of all time — I traded a college student in a midwestern state some fancy (at the time) networking gear for my NeXT and it was my primary machine for almost a year."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1999",
+        "month": "10"
+      },
+      "end_date": {
+        "year": "2000",
+        "month": "07"
+      },
+      "media": {
+        "caption": "Sun SPARCStation IPX",
+        "url": "/img/Sun-SPARCStation-IPX.jpg",
+        "thumbnail": "/img/Sun-SPARCStation-IPX.jpg"
+      },
+      "text": {
+        "headline": "Sun SPARCStation IPX",
+        "text": "One of many Sun \"lunchboxes\" that I owned and operated with various systems from old SunOS to NetBSD and OpenBSD. I also had several matching storage boxes and some Sun monitors as well."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1999",
+        "month": "11"
+      },
+      "end_date": {
+        "year": "2000",
+        "month": "2"
+      },
+      "media": {
+        "caption": "Beige-box Tower Pentium 90",
+        "url": "/img/Pentium-90.jpg",
+        "thumbnail": "/img/Pentium-90.jpg"
+      },
+      "text": {
+        "headline": "Beige-box Tower",
+        "text": "I built my own first Pentium machine (90mhz) piecemeal, with something crazy like 32MB of RAM and a 1GB hard disk. I taught myself about FreeBSD and XFree86 on this box for a little while."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2000",
+        "month": "05"
+      },
+      "end_date": {
+        "year": "2001",
+        "month": "08"
+      },
+      "media": {
+        "caption": "Sun SPARCStation 5",
+        "url": "/img/Sun-SPARCStation-5.jpg",
+        "thumbnail": "/img/Sun-SPARCStation-5.jpg"
+      },
+      "text": {
+        "headline": "Sun SPARCStation 5",
+        "text": "One of many Sun workstations, I used this SPARC 5 as my daily desktop for several months and learned a lot about day to day life with Solaris and the Common Desktop Environment in the process."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2003",
+        "month": "04"
+      },
+      "end_date": {
+        "year": "2005",
+        "month": "06"
+      },
+      "media": {
+        "caption": "iBook G3",
+        "url": "/img/iBook-G3.jpg",
+        "thumbnail": "/img/iBook-G3.jpg"
+      },
+      "text": {
+        "headline": "iBook G3",
+        "text": "My first ever Mac with OS X was an iBook G3 \"snow\"; I bought one a week after using OS X for five minutes on a second generation iMac at a little computer store in Maine."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2003",
+        "month": "12"
+      },
+      "end_date": {
+        "year": "2005",
+        "month": "04"
+      },
+      "media": {
+        "caption": "Zaurus SL-5500",
+        "url": "/img/Zaurus-SL-5500.jpg",
+        "thumbnail": "/img/Zaurus-SL-5500.jpg"
+      },
+      "text": {
+        "headline": "Zaurus SL-5500",
+        "text": "This was a wild PDA that ran Linux, and had a keyboard and (stylus driven) touch screen, with compact flash and SD slots, it could be used with multiple Linux distributions and a wide array  of peripherals. It had what a lot of other PDAs did not at the time: a slide open keyboard (closed in this photo)."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2005",
+        "month": "02"
+      },
+      "end_date": {
+        "year": "2008",
+        "month": "06"
+      },
+      "media": {
+        "caption": "Powerbook G4 12",
+        "url": "/img/Powerbook-G4.jpg",
+        "thumbnail": "/img/Powerbook-G4.jpg"
+      },
+      "text": {
+        "headline": "Powerbook G4 12",
+        "text": "This was the first brand new Macintosh computer that I ever bought for myself. I traveled a lot during this era and this machine was my road warrior. I emulated almost a dozen operating systems on this little laptop for all kinds of purposes."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2005",
+        "month": "12"
+      },
+      "end_date": {
+        "year": "2007",
+        "month": "10"
+      },
+      "media": {
+        "caption": "iMac G3 Blueberry",
+        "url": "/img/iMac-Blueberry.jpg",
+        "thumbnail": "/img/iMac-Blueberry.jpg"
+      },
+      "text": {
+        "headline": "iMac G3 Blueberry",
+        "text": "This was my daughter's first computer. We'd always though that the original iMacs were neat machines, but we'd never had one, so we got one so that we could play with it too. :)"
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2008",
+        "month": "01"
+      },
+      "end_date": {
+        "year": "2014",
+        "month": "06"
+      },
+      "media": {
+        "caption": "Powermac G5",
+        "url": "/img/Powermac-G5.jpg",
+        "thumbnail": "/img/Powermac-G5.jpg"
+      },
+      "text": {
+        "headline": "Powermac G5",
+        "text": "I used and maintained this machine belonging to a family member for many years, doing things like hardware upgrades, OS upgrades backups, and all manner of other maintenance. These old Macs are a joy to work with from the hardware perspective."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    }
+  ]
+}
