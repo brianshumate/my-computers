@@ -308,7 +308,7 @@
     {
       "start_date": {
         "year": "1998",
-        "month": "10"
+        "month": "11"
       },
       "end_date": {
         "year": "2001",
@@ -466,6 +466,30 @@
       "text": {
         "headline": "Sun SPARCStation 5",
         "text": "One of many Sun workstations, I used this SPARC 5 as my daily desktop for several months and learned a lot about day to day life with Solaris and the Common Desktop Environment in the process."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2001",
+        "month": "09"
+      },
+      "end_date": {
+        "year": "2003",
+        "month": "08"
+      },
+      "media": {
+        "caption": "Palm M105",
+        "url": "/img/Palm-M105.jpg",
+        "thumbnail": "/img/Palm-M105.jpg"
+      },
+      "text": {
+        "headline": "Palm M105",
+        "text": "The only Palm device that I ever owned was this cheap M105. I actually read e-books on this thing, took notes, and used all kinds of interesting apps which were available at the time — synching via serial cradle...."
       },
       "background": {
         "color": "#000000",
