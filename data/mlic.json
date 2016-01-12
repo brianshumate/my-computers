@@ -644,6 +644,30 @@
     {
       "start_date": {
         "year": "2008",
+        "month": "02"
+      },
+      "end_date": {
+        "year": "2008",
+        "month": "04"
+      },
+      "media": {
+        "caption": "Macbook Air",
+        "url": "/img/Macbook-Air.png",
+        "thumbnail": "/img/Macbook-Air.png"
+      },
+      "text": {
+        "headline": "Macbook Air",
+        "text": "I got a generation one Macbook Air not long after they were introduced. The lack of ports and other amenities made it a bit too impractical, so I sold it and got a standard Macbook instead."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2008",
         "month": "05"
       },
       "end_date": {
