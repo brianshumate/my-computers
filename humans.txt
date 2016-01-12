@@ -24,9 +24,10 @@ Location: On a boat
 - imgur.com for: https://i.imgur.com/X4axj6Ym.png
 - techradar.com for: http://cdn.mos.techradar.com/images/Apple-iMac-CRT-blueberry-1200-80.jpg
 - Evan-Amos for: https://en.wikipedia.org/wiki/Commodore_64#/media/File:Commodore-64-Computer.png
+- NASA for: https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg
 
 /* SITE */
-Last update: 2016-01-11T17:52:03
+Last update: 2016-01-11T20:55:43
 Standards: HTML5, CSS3, JS
 Components: jQuery, Zurb Foundation
 Software: Metalsmith, ImageMagick, Pixelmator, Sublime Text 3

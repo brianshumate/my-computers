@@ -239,8 +239,8 @@
         "month": "05"
       },
       "end_date": {
-        "year": "1994",
-        "month": "11"
+        "year": "1995",
+        "month": "03"
       },
       "media": {
         "caption": "VAX 8650",
@@ -332,6 +332,30 @@
     {
       "start_date": {
         "year": "1999",
+        "month": "08"
+      },
+      "end_date": {
+        "year": "2000",
+        "month": "07"
+      },
+      "media": {
+        "caption": "Sun SPARCStation 4/370",
+        "url": "/img/Sun4.jpg",
+        "thumbnail": "/img/Sun4.jpg"
+      },
+      "text": {
+        "headline": "Sun SPARCStation 4/370",
+        "text": "<em>The Stingray</em> — I purchased this machine as surplus from a VA auction. It was absolutely massive at over 250 pounds and it had riughly 9 fans inside. Booting it sounded like a jet taking off, and it originally came with SunOS 4. Through some help from an OpenBSD contributor, I managed to eventually net boot into OpenBSD/SPARC on it."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1999",
         "month": "07"
       },
       "end_date": {
@@ -370,6 +394,30 @@
       "text": {
         "headline": "Sun SPARCStation IPX",
         "text": "One of many Sun \"lunchboxes\" that I owned and operated with various systems from old SunOS to NetBSD and OpenBSD. I also had several matching storage boxes and some Sun monitors as well."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "1999",
+        "month": "10"
+      },
+      "end_date": {
+        "year": "2000",
+        "month": "07"
+      },
+      "media": {
+        "caption": "DECStation 3100",
+        "url": "/img/Dell-R610.jpg",
+        "thumbnail": "/img/Dell-R610.jpg"
+      },
+      "text": {
+        "headline": "DECStations",
+        "text": "I had a range of (mostly headless) DECStations from the 3000, 4000, and 5000 series. Some had Ultrix and some I installed NetBSD on. They were mostly used as little network servers. I had a stack of over 8 different models."
       },
       "background": {
         "color": "#000000",
@@ -500,6 +548,30 @@
     {
       "start_date": {
         "year": "2005",
+        "month": "03"
+      },
+      "end_date": {
+        "year": "2006",
+        "month": "11"
+      },
+      "media": {
+        "caption": "Sun Ultra 30",
+        "url": "/img/Sun-Ultra-30.jpg",
+        "thumbnail": "/img/Sun-Ultra-30.jpg"
+      },
+      "text": {
+        "headline": "Sun Ultra 30",
+        "text": "I bought this machine to learn more about recent Solaris versions, the UltraSPARC platform in general, and experiment with FreeBSD/sparc64. It was a bullet-proof system for sure."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2005",
         "month": "12"
       },
       "end_date": {
@@ -538,6 +610,30 @@
       "text": {
         "headline": "Powermac G5",
         "text": "I used and maintained this machine belonging to a family member for many years, doing things like hardware upgrades, OS upgrades backups, and all manner of other maintenance. These old Macs are a joy to work with from the hardware perspective."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010",
+        "month": "03"
+      },
+      "end_date": {
+        "year": "2011",
+        "month": "07"
+      },
+      "media": {
+        "caption": "Dell R-610",
+        "url": "/img/Dell-R610.jpg",
+        "thumbnail": "/img/Dell-R610.jpg"
+      },
+      "text": {
+        "headline": "Dell R-610",
+        "text": "I bought this server brand new; it had fast CPUs, 16GB RAM, and some 10K SAS disks. I ran Xen on it with a CentOS dom0 and a slew of FreeBSD and Linux domU images. Lots of web sites and applications resided on this machine from a co-location facility in Sacramento."
       },
       "background": {
         "color": "#000000",
