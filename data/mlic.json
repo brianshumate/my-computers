@@ -643,6 +643,30 @@
     },
     {
       "start_date": {
+        "year": "2008",
+        "month": "05"
+      },
+      "end_date": {
+        "year": "2012",
+        "month": "08"
+      },
+      "media": {
+        "caption": "Power Macintosh 7600",
+        "url": "/img/PowerMac-7600.png",
+        "thumbnail": "/img/PowerMac-7600.png"
+      },
+      "text": {
+        "headline": "Power Macintosh 7600",
+        "text": "PPC Mac given to me by a client. We actually used the Mac OS 9 on it with S-video in for capturing video from our 8mm camcorder and other zany things. For an old school Mac, it was pretty fun for our daughter to play around with too."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
         "year": "2010",
         "month": "03"
       },
