@@ -27,7 +27,7 @@ Location: On a boat
 - NASA for: https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg
 
 /* SITE */
-Last update: 2016-02-01T22:15:59
+Last update: 2016-02-01T23:52:21
 Standards: HTML5, CSS3, JS
 Components: jQuery, Zurb Foundation
 Software: Metalsmith, ImageMagick, Pixelmator, Sublime Text 3

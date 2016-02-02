@@ -571,6 +571,28 @@
     },
     {
       "start_date": {
+        "year": "2005"
+      },
+      "end_date": {
+        "year": "2006"
+      },
+      "media": {
+        "caption": "IBM Thinkpad R42",
+        "url": "/img/Thinkpad-R42.jpg",
+        "thumbnail": "/img/Thinkpad-R42.jpg"
+      },
+      "text": {
+        "headline": "IBM Thinkpad R42",
+        "text": "I used this laptop with Ubuntu Linux, rPath Linux, and Foresight Linux while working as a Technical Writer for a software company based out of Raleigh, North Carolina."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
         "year": "2005",
         "month": "03"
       },
