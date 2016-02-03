@@ -714,6 +714,30 @@
     {
       "start_date": {
         "year": "2010",
+        "month": "02"
+      },
+      "end_date": {
+        "year": "2011",
+        "month": "02"
+      },
+      "media": {
+        "caption": "IBM Thinkpad X201",
+        "url": "/img/Thinkpad-X201.jpg",
+        "thumbnail": "/img/Thinkpad-X201.jpg"
+      },
+      "text": {
+        "headline": "IBM Thinkpad X201",
+        "text": "This was a work laptop/tablet thing that I managed to mostly make function (even the Wacom screen) on Ubuntu, though I mostly just used it for light testing of Linux stuff"
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2010",
         "month": "03"
       },
       "end_date": {
