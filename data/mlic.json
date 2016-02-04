@@ -758,6 +758,78 @@
         "opacity": 100,
         "url": null
       }
+    },
+    {
+      "start_date": {
+        "year": "2013",
+        "month": "07"
+      },
+      "end_date": {
+        "year": "2015",
+        "month": "11"
+      },
+      "media": {
+        "caption": "Apple MacBook Pro 13",
+        "url": "/img/MacBook-Pro-13-2012.jpg",
+        "thumbnail": "/img/MacBook-Pro-13-2012.jpg"
+      },
+      "text": {
+        "headline": "Apple MacBook Pro 13",
+        "text": "This was a work machine that started experiencing mainboard failure and dying a slow miserable death after a couple years of intense use."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2014",
+        "month": "02"
+      },
+      "end_date": {
+        "year": "2016",
+        "month": "02"
+      },
+      "media": {
+        "caption": "Apple MacBook Pro 13 Retina",
+        "url": "/img/MacBook-Pro-13-2013.jpg",
+        "thumbnail": "/img/MacBook-Pro-13-2013.jpg"
+      },
+      "text": {
+        "headline": "Apple MacBook Pro 13",
+        "text": "My second MacBook Pro 13 Retina and still one of my personal machines today. A sharp drop destroyed its display and so replacement was necessary; thanks to SSD no other significant damage occurred."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
+    },
+    {
+      "start_date": {
+        "year": "2015",
+        "month": "11"
+      },
+      "end_date": {
+        "year": "2016",
+        "month": "02"
+      },
+      "media": {
+        "caption": "Apple MacBook Pro 13",
+        "url": "/img/MacBook-Pro-13-2015.jpg",
+        "thumbnail": "/img/MacBook-Pro-13-2015.jpg"
+      },
+      "text": {
+        "headline": "Apple MacBook Pro 13 Retina",
+        "text": "This is my new work machine, and replaced my MacBook Pro 13 2012 which starting experiencing mainboard failure and dying a slow miserable death."
+      },
+      "background": {
+        "color": "#000000",
+        "opacity": 100,
+        "url": null
+      }
     }
   ]
 }
